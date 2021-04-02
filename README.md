@@ -36,7 +36,6 @@ cucumber --init
 
 ```
 cd diretorio/features
-(Win and Linux) mkdir specifications
 ```
 
 > Criar arquivos com extensão .feature dentro da pasta
@@ -50,7 +49,6 @@ cd diretorio/features/specifications
 
 ```
 cucumber arquivo.feature
-COPIAR O LOG E CRIAR UM ARQUIVO COM O MESMO NOME DO FEATURE NO STEP DEFINTIONS (arquivo.rb)
 ```
 
 > Implementar os casos de teste dentro do arquivo como apresentado no exemplo e executar:
